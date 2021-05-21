@@ -1,0 +1,2 @@
+# yaohonglou.github.io
+hexo
